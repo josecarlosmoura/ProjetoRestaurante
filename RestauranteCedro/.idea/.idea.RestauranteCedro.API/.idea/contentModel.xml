@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2017.3/system/resharper-host/local/Transient/ReSharperHost/v11/SolutionCaches/_RestauranteCedro.API.-1370502194.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="RestauranteCedro" t="IncludeRecursive">
+        <e p="Controllers" t="Include">
+          <e p="PratoController.cs" t="Include" />
+          <e p="RestauranteController.cs" t="Include" />
+        </e>
+        <e p="Entities" t="Include">
+          <e p="Prato.cs" t="Include" />
+          <e p="Restaurante.cs" t="Include" />
+        </e>
+        <e p="Migrations" t="Include">
+          <e p="20180303154626_InitialMigration.Designer.cs" t="Include" />
+          <e p="20180303154626_InitialMigration.cs" t="Include" />
+          <e p="RestauranteCedroContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="RestauranteCedro.csproj" t="IncludeRecursive" />
+        <e p="RestauranteCedroContext.cs" t="Include" />
+        <e p="Startup.cs" t="Include" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="RestauranteCedro.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="wwwroot" t="Include" />
+      </e>
+      <e p="RestauranteCedro.API.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

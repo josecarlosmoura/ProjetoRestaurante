@@ -1,0 +1,10 @@
+/home/jmourasi/RiderProjects/RestauranteCedro.API/RestauranteCedro/bin/Debug/netcoreapp2.0/RestauranteCedro.deps.json
+/home/jmourasi/RiderProjects/RestauranteCedro.API/RestauranteCedro/bin/Debug/netcoreapp2.0/RestauranteCedro.runtimeconfig.json
+/home/jmourasi/RiderProjects/RestauranteCedro.API/RestauranteCedro/bin/Debug/netcoreapp2.0/RestauranteCedro.runtimeconfig.dev.json
+/home/jmourasi/RiderProjects/RestauranteCedro.API/RestauranteCedro/bin/Debug/netcoreapp2.0/RestauranteCedro.dll
+/home/jmourasi/RiderProjects/RestauranteCedro.API/RestauranteCedro/bin/Debug/netcoreapp2.0/RestauranteCedro.pdb
+/home/jmourasi/RiderProjects/RestauranteCedro.API/RestauranteCedro/obj/Debug/netcoreapp2.0/RestauranteCedro.csproj.CoreCompileInputs.cache
+/home/jmourasi/RiderProjects/RestauranteCedro.API/RestauranteCedro/obj/Debug/netcoreapp2.0/RestauranteCedro.AssemblyInfoInputs.cache
+/home/jmourasi/RiderProjects/RestauranteCedro.API/RestauranteCedro/obj/Debug/netcoreapp2.0/RestauranteCedro.AssemblyInfo.cs
+/home/jmourasi/RiderProjects/RestauranteCedro.API/RestauranteCedro/obj/Debug/netcoreapp2.0/RestauranteCedro.dll
+/home/jmourasi/RiderProjects/RestauranteCedro.API/RestauranteCedro/obj/Debug/netcoreapp2.0/RestauranteCedro.pdb
