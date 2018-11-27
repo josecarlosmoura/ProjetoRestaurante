@@ -19,7 +19,7 @@ namespace RestauranteCedro
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<RestauranteCedroContext>(
-                opt => opt.UseSqlServer("Server=tcp:moura-srv.database.windows.net,1433;Initial Catalog=bdmoura;Persist Security Info=False;User ID=jmourasi;Password=Leonora@@;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"));
+                opt => opt.UseSqlServer("Server=tcp:moura-srv.database.windows.net,1433;Initial Catalog=bdmoura;Persist Security Info=False;User ID=jmourasi;Password=;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"));
             
             services.AddSwaggerGen(options =>
             {
